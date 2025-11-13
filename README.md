@@ -9,6 +9,10 @@
 
 ---
 
+## 🚀 Live Demo  
+[Smart Data Cleaner App](https://smart-datacleaner.streamlit.app/)
+
+
 ## ✨ Overview
 
 **Smart Data Cleaner** automatically detects and fixes issues in messy datasets using **Streamlit**, **Pandas**, and **Google Gemini AI**.  
